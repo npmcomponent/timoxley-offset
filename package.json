@@ -1,0 +1,10 @@
+{
+  "name": "timoxley-offset",
+  "description": "Get offset of a dom element.",
+  "version": "0.0.3",
+  "keywords": [],
+  "dependencies": {
+    "timoxley-dom-support": "git://github.com/npmcomponent/timoxley-dom-support.git",
+    "component-within-document": "git://github.com/npmcomponent/component-within-document.git"
+  }
+}

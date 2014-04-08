@@ -1,5 +1,5 @@
-var support = require('dom-support')
-var contains = require('within-document')
+var support = require('timoxley-dom-support')
+var contains = require('component-within-document')
 
 /**
  * Get offset of an element within the viewport.
